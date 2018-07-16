@@ -16,11 +16,13 @@ body {
 #quote {
   font-family:"Sunflower", sans-serif;
    font-size: 15px;
+   margin-left: 25%;
+   margin-right: 25%;
 }
 h2 {
   font-family:"Sunflower", sans-serif;
    font-size: 20px;
-   margin-left: 10%;
+   margin-left: 20%;
 }
 p {
    
